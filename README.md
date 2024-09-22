@@ -1,2 +1,2 @@
-# Coffee-Shop-Sales-Insights-Project 📊
+# Sales-Insights-Project 📊
 ❓ Problem Statement
