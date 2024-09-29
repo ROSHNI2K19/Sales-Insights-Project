@@ -1,7 +1,7 @@
 # Sales-Insights-Project 📊
 ❓ Problem Statement
 
-For a hardware manufacturing company, having markets over various cities in India, create a dashboard to help analyze the sales trend for over a period from 2017 to 2019
+For a hardware manufacturing company, having markets over various cities in India, create a dashboard to analyze the sales trend for over a period from 2017 to 2019
 
 **My Approach**
 * Extracted relavant data from MySQL after doing EDA using SQL
