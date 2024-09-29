@@ -9,6 +9,6 @@ For a hardware manufacturing company, having markets over various cities in Indi
 * As part of EDA, created a Measure table in Power BI to consolidate the Key Measure created. Finally, visualized the findings in a clear and concise Dashboard
 
 **Result**
-* The screenshot below shows the dashboard prepared. Please do check the **sales analysis.pbix** file.
+* The screenshot below shows the dashboard prepared. Please do check the https://github.com/ROSHNI2K19/Sales-Insights-Project/blob/main/sales%20analysis.pbix file.
   
   ![image](https://github.com/user-attachments/assets/6dc4ce16-7247-46ba-ab5d-c5b9a4cf4d27)
